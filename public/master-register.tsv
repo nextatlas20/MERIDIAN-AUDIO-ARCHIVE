@@ -1,0 +1,8 @@
+sequence	transfer_id	tape_id	title	submitted_at	engineer	requested_seconds	priority	outcome	reason	remaining_seconds
+1	TR-102	MA-03	Market memories	2108-04-11T09:05:00Z	Bo	240	95	SCHEDULED		960
+2	TR-101	MA-12	Harbor radio diary	2108-04-11T09:00:00Z	Inez	300	90	SCHEDULED		660
+3	TR-104	MA-12	Harbor radio diary	2108-04-11T09:15:00Z	Dax	200	90	SCHEDULED		460
+4	TR-105	MA-08	Orchard interview	2108-04-11T09:20:00Z	Edda	400	85	SCHEDULED		60
+5	TR-103	MA-27	School concert	2108-04-11T09:10:00Z	Cleo	500	80	DEFERRED	SESSION_CAPACITY	60
+6	TR-106	MA-19	Union hall meeting	2108-04-11T09:25:00Z	Finn	60	80	SCHEDULED		0
+7	TR-107	MA-12	Harbor radio diary	2108-04-11T09:30:00Z	Gail	30	70	DEFERRED	SESSION_LIMIT	0
