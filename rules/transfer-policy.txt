@@ -1,0 +1,3 @@
+The session has 1200 seconds of transfer time.
+READY requests are considered by descending priority, then submission time.
+A cassette cannot exceed its registered session limit.
